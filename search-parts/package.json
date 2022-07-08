@@ -47,7 +47,7 @@
         "handlebars-group-by": "1.0.1",
         "handlebars-helpers": "0.8.4",
         "immutability-helper": "2.4.0",
-        "moment": "2.24.0",
+        "moment": "2.29.4",
         "office-ui-fabric-react": "6.194.0",
         "react": "16.8.5",
         "react-ace": "5.8.0",
